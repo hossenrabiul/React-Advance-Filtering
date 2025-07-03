@@ -7,7 +7,6 @@ const Category = ({ handleChange }) => {
     <div>
       <div className="slidber-title">All Category</div>
 
- 
       <Input
         handleChange={handleChange}
         value=""
