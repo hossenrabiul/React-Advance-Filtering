@@ -3,7 +3,7 @@ import { useState } from 'react'
 import Nav from './Navigation/Nav'
 import Products from './Products/Products'
 import Recommended from './Recommended/Recommended'
-import Slidber from './Slidber/Slidber'
+import Slidber from './Slidber/Main/Slidber.jsx'
 import Allproducts from './db/data.js'
 import Card from './components/Card.jsx'
 
